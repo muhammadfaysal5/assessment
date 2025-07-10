@@ -39,8 +39,7 @@ Once both servers are running:
     Frontend: http://localhost:3000
 
  use different terminals to run frontend and backend
-
- use your own api_key for testing create a .env file and past it here   if any error you can also use directly api key in app.py
+ use your own api_key for testing  in app.py at line number 20 at this path ->assesment/backend/app.py
 
 
 i am ubuntu user...
