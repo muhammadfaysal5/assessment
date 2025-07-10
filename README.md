@@ -40,7 +40,7 @@ Once both servers are running:
 
  use different terminals to run frontend and backend
 
- use your own api_key for testing create a .env file and past it here   
+ use your own api_key for testing create a .env file and past it here   if any error you can also use directly api key in app.py
 
 
 i am ubuntu user...
