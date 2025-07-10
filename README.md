@@ -32,5 +32,15 @@ for fix permission
 
 
 
+Once both servers are running:
+
+    Backend: http://127.0.0.1:5000
+
+    Frontend: http://localhost:3000
+
+ use different terminals to run frontend and backend
+
+ use your own api_key for testing create a .env file and past it here   
+
 
 i am ubuntu user...
